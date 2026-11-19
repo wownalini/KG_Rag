@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Chief Minister's Farmers Service Centre",
+    "department": "Agriculture Department",
+    "description": "Establishes Farmers Service Centres to provide essential inputs, expert guidance and services to farmers across Tamil Nadu.",
+    "beneficiary": "Farmers",
+    "benefit": "Agricultural inputs and expert guidance"
+  },
+  {
+    "name": "Hill Farmers Development Scheme",
+    "department": "Agriculture Department",
+    "description": "Supports hill and upland farmers with focus on minor millets cultivation, hill vegetables and farm mechanisation.",
+    "beneficiary": "Hill and upland farmers",
+    "benefit": "Financial support and farm inputs"
+  },
+  {
+    "name": "Rural Backyard Poultry Development Scheme",
+    "department": "Animal Husbandry Department",
+    "description": "Provides livelihood opportunities for rural women through backyard poultry farming with training and financial support.",
+    "beneficiary": "Rural women",
+    "benefit": "Training and financial assistance for poultry"
+  },
+  {
+    "name": "PM-KISAN",
+    "department": "Agriculture Department",
+    "description": "Provides income support of Rs. 6000 per year in three equal installments to small and marginal farmer families.",
+    "beneficiary": "Small and marginal farmers",
+    "benefit": "Direct income support of Rs. 6000 per year"
+  },
+  {
+    "name": "Soil Health Card Scheme",
+    "department": "Agriculture Department",
+    "description": "Provides soil health cards containing nutrient status and fertilizer recommendations.",
+    "beneficiary": "All farmers",
+    "benefit": "Free soil testing and recommendations"
+  },
+  {
+    "name": "Kisan Credit Card",
+    "department": "Agriculture Department",
+    "description": "Provides timely credit to farmers for cultivation and other agricultural needs.",
+    "beneficiary": "Farmers",
+    "benefit": "Low-interest credit for farming activities"
+  }
+]
